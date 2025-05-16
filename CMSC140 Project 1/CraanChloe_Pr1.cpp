@@ -1,13 +1,6 @@
 /*
- * Class: CMSC140 30346
- * Instructor: Huseyin Aygun
  * Project1
  * Description: User is calculating the amount of profit or loss made after buying and then selling his stock and paying two commissions to his broker.
- * Due Date: February 26th, 2025
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Name here:  Anne-Yaëlle Chloé Craan
 */
 
 #include <iostream>
