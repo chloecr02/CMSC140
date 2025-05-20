@@ -1,13 +1,5 @@
 /*
- * Class: CMSC140 30346
- * Instructor: Prof. Husein Aygun
- * Project 4
  * Description: A program that calculates the average number of days a company's employees are absent during the year and outputs a report on a file named "employeeAbsences.txt".
- * Due Date: April 24th 2025
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Name here: Anne-Yaelle Chloé Craan
 */
 
 #include <iostream>
