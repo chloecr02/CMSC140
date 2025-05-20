@@ -64,9 +64,8 @@ int main()
     cout << "Thank you for participating " << userName << "!\n\n" ;
 
     cout << "PROGRAMMER: Anne-Yaëlle Chloé Craan\n" ;
-    cout << "Course CMSC140: 30346\n" ;
+    cout << "Course CMSC140\n" ;
     cout << "Semester: Spring 2025\n" ;
-    cout << "Due Date: February, 26th, 2025\n\n" ;
     
     return 0;
 }
